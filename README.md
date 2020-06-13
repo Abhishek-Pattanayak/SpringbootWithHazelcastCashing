@@ -10,6 +10,7 @@
    
 - And you can see in the first attempt, the request fetched data from database.
 
+  ![image](https://user-images.githubusercontent.com/64692097/84578236-264c4180-ade1-11ea-82f9-3e314c00a35f.png)
 
 - Now if you hit the URL again, it will fetch from Cache and not from Database as you can see second time it didn't print the message.
 
