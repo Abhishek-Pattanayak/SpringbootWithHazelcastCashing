@@ -22,6 +22,8 @@
   
 - Next time, when you hit the URL to fetch details, it will retrieve the updated details from Cache and not from DB as update request has already refreshed the cache with changed capital details.
 
+  ![image](https://user-images.githubusercontent.com/64692097/84578481-454bd300-ade3-11ea-96d7-a3a86e841a88.png)
+  
   ![image](https://user-images.githubusercontent.com/64692097/84578383-5c3df580-ade2-11ea-95c0-87af157bd02a.png)
 
 
