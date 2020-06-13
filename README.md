@@ -16,9 +16,15 @@
 
   ![image](https://user-images.githubusercontent.com/64692097/84578305-affc0f00-ade1-11ea-9e48-8d6894ef7636.png)
 
-- When you update the details, it will update the Database as well the cache. In the next time, when you hit the URL to fetch details, it will retrieve the updated details from Cache and not from DB.
+- When you update the details, it will update the Database as well as the cache.
 
-![image](https://user-images.githubusercontent.com/64692097/84578366-1a14b400-ade2-11ea-980a-7148fb44bf02.png)
+  ![image](https://user-images.githubusercontent.com/64692097/84578366-1a14b400-ade2-11ea-980a-7148fb44bf02.png)
+  
+- Next time, when you hit the URL to fetch details, it will retrieve the updated details from Cache and not from DB as update request has already refreshed the cache with changed capital details.
+
+  ![image](https://user-images.githubusercontent.com/64692097/84578383-5c3df580-ade2-11ea-95c0-87af157bd02a.png)
+
+
 
 
 
