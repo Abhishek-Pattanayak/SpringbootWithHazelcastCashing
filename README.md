@@ -18,4 +18,8 @@
 
 - When you update the details, it will update the Database as well the cache. In the next time, when you hit the URL to fetch details, it will retrieve the updated details from Cache and not from DB.
 
+![image](https://user-images.githubusercontent.com/64692097/84578366-1a14b400-ade2-11ea-980a-7148fb44bf02.png)
+
+
+
 
