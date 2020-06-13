@@ -12,8 +12,10 @@
 
   ![image](https://user-images.githubusercontent.com/64692097/84578236-264c4180-ade1-11ea-82f9-3e314c00a35f.png)
 
-- Now if you hit the URL again, it will fetch from Cache and not from Database as you can see second time it didn't print the message.
+- Now if you hit the URL again, it will fetch from Cache and not from Database as you can see, second time it didn't print the message.
 
+  ![image](https://user-images.githubusercontent.com/64692097/84578305-affc0f00-ade1-11ea-9e48-8d6894ef7636.png)
 
-- When you update the details, it will update the cache and the next time you hit the URL to fetch details, it will retrieve the details from Cache and not from DB.
+- When you update the details, it will update the Database as well the cache. In the next time, when you hit the URL to fetch details, it will retrieve the updated details from Cache and not from DB.
+
 
