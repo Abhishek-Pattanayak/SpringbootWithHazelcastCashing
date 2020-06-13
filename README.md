@@ -1,5 +1,5 @@
 ## SpringbootWithHazelcastCashing
-- This is an example of Spring boot with Hazelcast in memory caching. For all CRUD operations, JPA has been integrated and an in meory H2 data base has been used.used with JPA.
+- This is an example of Spring boot with Hazelcast in memory caching. For all CRUD operations, JPA has been integrated and an in meory H2 data base has been used.
 
 ## Steps to test the application
 - Start the application which will run on Port: 8000
